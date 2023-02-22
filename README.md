@@ -4,8 +4,9 @@
 
 - <b>Microsoft Azure</b>
   - [Creating a Virtual Machine in Microsoft Azure](https://github.com/jnoriega232/azure-virtualmachine)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jnoriega232/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jnoriega232/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jnoriega232/configure-ad)
+  - [Building Intuition For DNS](https://github.com/jnoriega232/DNS)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jnoriega232/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jnoriega232/post-install-config)
