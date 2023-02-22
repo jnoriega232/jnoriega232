@@ -15,4 +15,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: linkedin.com/in/alexander-noriega
+[linkedin]: https://www.linkedin.com/in/alexander-noriega-721b4723b/
