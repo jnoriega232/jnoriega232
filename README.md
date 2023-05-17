@@ -1,4 +1,9 @@
-<h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alexander-noriega-721b4723b/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Alex, an <a href="https://www.linkedin.com/in/alexander-noriega-721b4723b/">IT and Cybersecurity Professional</a>☺</h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Microsoft Azure</b>
+  - [Creating a SOC + Honeynet in Azure (Live Traffic)](https://github.com/jnoriega232/Azure-Honeynet-SOC)
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
