@@ -5,7 +5,8 @@
 - <b>Microsoft Azure</b>
   - [Creating a SOC + Honeynet in Azure (Live Traffic)](https://github.com/jnoriega232/Azure-Honeynet-SOC)
     - [Cloud SOC Pre-requisites](https://github.com/jnoriega232/Cloud-SOC-Pre-requisites)
-    - [Logging and Monitoring](https://github.com/jnoriega232/Logging-and-Monitoring)  
+    - [Logging and Monitoring](https://github.com/jnoriega232/Logging-and-Monitoring)
+    - [Microsoft Sentinel (SIEM)](https://github.com/jnoriega232/Microsoft-Sentinel-SIEM/blob/main/README.md)  
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
