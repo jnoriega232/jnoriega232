@@ -7,7 +7,8 @@
     - [Cloud SOC Pre-requisites](https://github.com/jnoriega232/Cloud-SOC-Pre-requisites)
     - [Logging and Monitoring](https://github.com/jnoriega232/Logging-and-Monitoring)
     - [Microsoft Sentinel (SIEM)](https://github.com/jnoriega232/Microsoft-Sentinel-SIEM/blob/main/README.md)
-    - [Secure Cloud Configuration](https://github.com/jnoriega232/Secure-Cloud-Configuration)  
+    - [Secure Cloud Configuration](https://github.com/jnoriega232/Secure-Cloud-Configuration)
+  - [Vulnerability Management Project](https://github.com/jnoriega232/Vulnerability-Management) 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
