@@ -9,6 +9,7 @@
     - [Microsoft Sentinel (SIEM)](https://github.com/jnoriega232/Microsoft-Sentinel-SIEM/blob/main/README.md)
     - [Secure Cloud Configuration](https://github.com/jnoriega232/Secure-Cloud-Configuration)
   - [Vulnerability Management Project](https://github.com/jnoriega232/Vulnerability-Management) 
+
 - <b>Linux</b>
   - [File Permissions in Linux](https://github.com/jnoriega232/File-Permissions-in-Linux)
 
