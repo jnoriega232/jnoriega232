@@ -16,6 +16,9 @@
 - <b>SQL</b>
   - [Apply Filters to SQL Queries](https://github.com/jnoriega232/Apply-Filters-to-SQL-Queries)
 
+- <b>Python</b>
+  - [Update a File Through a Python Algorithm](https://github.com/jnoriega232/Update-a-File-Through-a-Python-Algorithm)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
