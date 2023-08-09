@@ -13,6 +13,9 @@
 - <b>Linux</b>
   - [File Permissions in Linux](https://github.com/jnoriega232/File-Permissions-in-Linux)
 
+- <b>SQL</b>
+  - [Apply Filters to SQL Queries](https://github.com/jnoriega232/Apply-Filters-to-SQL-Queries)
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
